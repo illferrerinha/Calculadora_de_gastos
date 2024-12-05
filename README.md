@@ -71,3 +71,4 @@ O objetivo deste projeto é desenvolver uma **aplicação web** simples usando *
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/illferrerinha/Calculadora_de_gastos.git
+   http://127.0.0.1:5000
